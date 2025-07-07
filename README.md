@@ -1,5 +1,6 @@
 # Dutchie.com Deal Finder
 A simple program that looks for best price to weight ratios across multiple dutchie.com dispensaries to assist you in finding the best deals.
+By default searches for prices on medical menu only.
 
 ## How to use
 1. Clone program to your IDE
